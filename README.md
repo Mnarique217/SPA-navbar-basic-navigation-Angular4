@@ -6,4 +6,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Just run npm intall
 This basic page uses routerLink to navigate, and Router.navigate making use of parameters, usage of Input to read parameters Html level.
 
+![](Capture.PNG)
+
 
